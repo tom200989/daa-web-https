@@ -1,0 +1,5437 @@
+{
+  "sentiment:600011": {
+    "savedAt": 1780029259,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1717150434,
+          "title": "昨天卖飞了，我不后悔，拖拖拉拉的一个月，也没有涨过八块。",
+          "publishTime": "2026-05-29 12:32:50",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717144732,
+          "title": "虽然你是火电龙头，可惜你盘子太大，我主力资金实力不够",
+          "publishTime": "2026-05-29 12:19:09",
+          "viewCount": 22,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717133550,
+          "title": "牛逼",
+          "publishTime": "2026-05-29 11:55:46",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717133025,
+          "title": "这个股每年拿着分红也挺好",
+          "publishTime": "2026-05-29 11:54:50",
+          "viewCount": 15,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717128332,
+          "title": "等9，等分红。看10有希望。",
+          "publishTime": "2026-05-29 11:47:18",
+          "viewCount": 17,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717126499,
+          "title": "每日一骂！251天。23年5月买的，现在8.69的本。回本了就不骂",
+          "publishTime": "2026-05-29 11:44:35",
+          "viewCount": 73,
+          "commentCount": 6,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717120564,
+          "title": "没有耐心的就滚啊，华能国际连涨五天了还在叫",
+          "publishTime": "2026-05-29 11:37:23",
+          "viewCount": 19,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717119412,
+          "title": "夏天来了，家里用电猛涨！",
+          "publishTime": "2026-05-29 11:36:03",
+          "viewCount": 14,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 6.75,
+        "label": "中性",
+        "hotness": 208
+      }
+    }
+  },
+  "hotrank:all-current": {
+    "savedAt": 1780641647,
+    "payload": {
+      "source": "EASTMONEY_STOCKRANK",
+      "rows": []
+    }
+  },
+  "sentiment:000591": {
+    "savedAt": 1779871973,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1715731535,
+          "title": "明日跌停，一直跌到4.5",
+          "publishTime": "2026-05-27 16:41:36",
+          "viewCount": 13,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -36.0,
+          "sentimentLabel": "偏风险"
+        },
+        {
+          "postId": 1715730156,
+          "title": "净资产魔咒，明天跌",
+          "publishTime": "2026-05-27 16:37:59",
+          "viewCount": 14,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715727276,
+          "title": "这股就是名字有问题，，名字导致散户喜欢买，，散户一买就变弱。。到现在散户都不懂，",
+          "publishTime": "2026-05-27 16:30:34",
+          "viewCount": 21,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715718785,
+          "title": "老娘今天不敢做t，只好紧紧握着不松手",
+          "publishTime": "2026-05-27 16:09:09",
+          "viewCount": 37,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715718260,
+          "title": "吸筹明显，涨放量，跌缩量，且破净股，业绩指标都没得说，买入或持股待涨。",
+          "publishTime": "2026-05-27 16:07:47",
+          "viewCount": 28,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 36.0,
+          "sentimentLabel": "偏乐观"
+        },
+        {
+          "postId": 1715713214,
+          "title": "这股就是名字有问题，，名字导致散户喜欢买，，散户一买就变弱。。到现在散户都不懂，",
+          "publishTime": "2026-05-27 15:57:20",
+          "viewCount": 65,
+          "commentCount": 4,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715710511,
+          "title": "6.15真是太难了！压那么多单干啥呢？继续修复吧！看你啥时候能上攻啊？唉",
+          "publishTime": "2026-05-27 15:51:10",
+          "viewCount": 169,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715706559,
+          "title": "哎，被洗出去了",
+          "publishTime": "2026-05-27 15:43:54",
+          "viewCount": 36,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -2.25,
+        "label": "中性",
+        "hotness": 423
+      }
+    }
+  },
+  "sentiment:002456": {
+    "savedAt": 1780629306,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721350749,
+          "title": "好消息买对了板块，坏消息板块最弱",
+          "publishTime": "2026-06-05 11:14:22",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721350423,
+          "title": "助力你坚决点",
+          "publishTime": "2026-06-05 11:14:11",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721350206,
+          "title": "真拉啊，走了，板块都带不动你",
+          "publishTime": "2026-06-05 11:14:04",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721349941,
+          "title": "真正大牛己启动，第一目标20，第二目标30静静期待吧！",
+          "publishTime": "2026-06-05 11:13:55",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721348729,
+          "title": "念经第一万零一遍：涨不停，不停涨。",
+          "publishTime": "2026-06-05 11:13:17",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 36.0,
+          "sentimentLabel": "偏乐观"
+        },
+        {
+          "postId": 1721347787,
+          "title": "板块6个点，它要绿",
+          "publishTime": "2026-06-05 11:12:49",
+          "viewCount": 4,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721345284,
+          "title": "差14个点",
+          "publishTime": "2026-06-05 11:11:28",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721345139,
+          "title": "散户不下车，主力不拉",
+          "publishTime": "2026-06-05 11:11:23",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 4.5,
+        "label": "中性",
+        "hotness": 13
+      }
+    }
+  },
+  "sentiment:000690": {
+    "savedAt": 1779871986,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1715734904,
+          "title": "大盘电力股，可惜不是主力进攻的标的！！！",
+          "publishTime": "2026-05-27 16:50:11",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715734828,
+          "title": "一堆唱多的，明天大跌",
+          "publishTime": "2026-05-27 16:49:57",
+          "viewCount": 4,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715733799,
+          "title": "看8块",
+          "publishTime": "2026-05-27 16:47:25",
+          "viewCount": 6,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715728124,
+          "title": "完了！心里不踏实了！全是唱多的，我之前遭过一次，现在都还没有走出来！",
+          "publishTime": "2026-05-27 16:32:50",
+          "viewCount": 18,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715722672,
+          "title": "全跑出来晒图，完了明天低开吃面",
+          "publishTime": "2026-05-27 16:19:02",
+          "viewCount": 17,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715721969,
+          "title": "破净股",
+          "publishTime": "2026-05-27 16:17:16",
+          "viewCount": 15,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715715432,
+          "title": "一堆晒持仓的来了，赶紧跑吧",
+          "publishTime": "2026-05-27 16:01:42",
+          "viewCount": 19,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715705087,
+          "title": "玛德从大唐出来来宝新少挣1.3个点",
+          "publishTime": "2026-05-27 15:41:29",
+          "viewCount": 28,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -2.25,
+        "label": "中性",
+        "hotness": 119
+      }
+    }
+  },
+  "sentiment:002745": {
+    "savedAt": 1779871992,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1715731660,
+          "title": "一、今日核心数据（5月27日）收盘价：11.00元，涨幅+5.16%（盘中创60",
+          "publishTime": "2026-05-27 16:42:01",
+          "viewCount": 41,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715730585,
+          "title": "今天我买了十万手。明天再买十万手",
+          "publishTime": "2026-05-27 16:39:01",
+          "viewCount": 15,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715729444,
+          "title": "看看月线就明白了",
+          "publishTime": "2026-05-27 16:36:16",
+          "viewCount": 18,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715727112,
+          "title": "如昨日复盘，今日属于强修复弱转强，属于逼空分时走势，量能承接很良性！明日开盘震荡",
+          "publishTime": "2026-05-27 16:30:10",
+          "viewCount": 51,
+          "commentCount": 3,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715723422,
+          "title": "看周线，接下来两天该休息了。",
+          "publishTime": "2026-05-27 16:21:00",
+          "viewCount": 41,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715721860,
+          "title": "这幺强，观注度却往下，水军呢",
+          "publishTime": "2026-05-27 16:16:56",
+          "viewCount": 18,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715719423,
+          "title": "今日持盘新入东百集团，木林森，宏昌一半走了博云还在。大盘指数下跌今天又4000家",
+          "publishTime": "2026-05-27 16:10:47",
+          "viewCount": 218,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1715710138,
+          "title": "企业增持就是很好的跟进理由！",
+          "publishTime": "2026-05-27 15:50:26",
+          "viewCount": 117,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 549
+      }
+    }
+  },
+  "sentiment:601991": {
+    "savedAt": 1780547646,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1720538009,
+          "title": "双星新材和大唐选谁？",
+          "publishTime": "2026-06-04 12:33:41",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720537812,
+          "title": "虽然我的开户券商不是东财的。但是每天看盘累了来看看空还是挺好的",
+          "publishTime": "2026-06-04 12:33:06",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720537718,
+          "title": "今天上午主力没发力，看下午表演",
+          "publishTime": "2026-06-04 12:32:51",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720537702,
+          "title": "双星和大唐选谁",
+          "publishTime": "2026-06-04 12:32:48",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720537297,
+          "title": "下午给各位菜鸡看看瀑布的凉爽",
+          "publishTime": "2026-06-04 12:31:33",
+          "viewCount": 4,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720537086,
+          "title": "感觉今天又有人要使坏了，兄弟们注意点吧重点关注辽能，要是触发异动记得果断跑路。",
+          "publishTime": "2026-06-04 12:30:56",
+          "viewCount": 6,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720536762,
+          "title": "现在这个市场，越高越安全，品",
+          "publishTime": "2026-06-04 12:30:02",
+          "viewCount": 9,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720536406,
+          "title": "电力要退潮了，涨太高了",
+          "publishTime": "2026-06-04 12:29:04",
+          "viewCount": 15,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 2.25,
+        "label": "中性",
+        "hotness": 48
+      }
+    }
+  },
+  "sentiment:002354": {
+    "savedAt": 1780280995,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1717996498,
+          "title": "上不去了，还得跌下来",
+          "publishTime": "2026-06-01 10:29:33",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717995477,
+          "title": "卖了你就飞..",
+          "publishTime": "2026-06-01 10:29:03",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717995403,
+          "title": "我马上砸",
+          "publishTime": "2026-06-01 10:29:00",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717995375,
+          "title": "可以拉涨停了",
+          "publishTime": "2026-06-01 10:28:58",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717995209,
+          "title": "板块救了他。不然今天非常危险。",
+          "publishTime": "2026-06-01 10:28:54",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717995002,
+          "title": "703让他洗出来，出来就拉",
+          "publishTime": "2026-06-01 10:28:48",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717994591,
+          "title": "今天收盘六个多点",
+          "publishTime": "2026-06-01 10:28:34",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717994269,
+          "title": "对不住了各位我进场了",
+          "publishTime": "2026-06-01 10:28:26",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 8
+      }
+    }
+  },
+  "sentiment:600110": {
+    "savedAt": 1780627747,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721287825,
+          "title": "这股就是小作文一大堆劝不要买买也不会挣钱",
+          "publishTime": "2026-06-05 10:42:01",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721283055,
+          "title": "该上去了，还在等什么？",
+          "publishTime": "2026-06-05 10:40:00",
+          "viewCount": 6,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721281942,
+          "title": "还是诺德好啊我买利欧4000手被挂在5.64",
+          "publishTime": "2026-06-05 10:39:31",
+          "viewCount": 8,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721275216,
+          "title": "这是在干嘛",
+          "publishTime": "2026-06-05 10:36:31",
+          "viewCount": 6,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721273203,
+          "title": "真的让人心生闷气，",
+          "publishTime": "2026-06-05 10:35:37",
+          "viewCount": 7,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721272528,
+          "title": "双星随时可涨停，这里还在吸筹洗筹，都是搞铜箔的，差距咋就这么大呢",
+          "publishTime": "2026-06-05 10:35:18",
+          "viewCount": 14,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721264780,
+          "title": "股吧小作文一多此股必跌",
+          "publishTime": "2026-06-05 10:32:04",
+          "viewCount": 6,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721264420,
+          "title": "万手哥来了",
+          "publishTime": "2026-06-05 10:31:56",
+          "viewCount": 7,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 55
+      }
+    }
+  },
+  "sentiment:601016": {
+    "savedAt": 1780559841,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1720828162,
+          "title": "啥玩意",
+          "publishTime": "2026-06-04 15:54:57",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720822908,
+          "title": "定增到7月底落地，定增的价格谁都不好说，但是大股东要真金白银的拿出来肯定不愿意买",
+          "publishTime": "2026-06-04 15:44:19",
+          "viewCount": 51,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720819780,
+          "title": "严重滞涨！这货是没得救了，浪费行情！抛弃幻想，涨不动就得扔啊！",
+          "publishTime": "2026-06-04 15:38:20",
+          "viewCount": 19,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 36.0,
+          "sentimentLabel": "偏乐观"
+        },
+        {
+          "postId": 1720818079,
+          "title": "按这么磨蹭法则！我梦想站稳6元，用不用等三个月？",
+          "publishTime": "2026-06-04 15:34:47",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720817515,
+          "title": "今天低开-2，早上强势拉升+5，电力全天弱势，尾盘回落到2。收出一个4点小阳线。",
+          "publishTime": "2026-06-04 15:33:44",
+          "viewCount": 19,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720812775,
+          "title": "不予置评",
+          "publishTime": "2026-06-04 15:25:39",
+          "viewCount": 40,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720809823,
+          "title": "明天4.48跌停",
+          "publishTime": "2026-06-04 15:21:22",
+          "viewCount": 49,
+          "commentCount": 5,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720808616,
+          "title": "反正5左右万手哥前几天进来不少",
+          "publishTime": "2026-06-04 15:19:27",
+          "viewCount": 28,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 4.5,
+        "label": "中性",
+        "hotness": 262
+      }
+    }
+  },
+  "sentiment:000767": {
+    "savedAt": 1779937620,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1716205156,
+          "title": "5.62的哥们不要卖。减少抛压。主力马上就拉起来了。",
+          "publishTime": "2026-05-28 11:06:14",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716203948,
+          "title": "起飞",
+          "publishTime": "2026-05-28 11:05:35",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716203186,
+          "title": "把我洗出去了，垃圾",
+          "publishTime": "2026-05-28 11:05:13",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716202187,
+          "title": "一支穿云箭",
+          "publishTime": "2026-05-28 11:04:46",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716201860,
+          "title": "换成大唐就对了",
+          "publishTime": "2026-05-28 11:04:37",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716199558,
+          "title": "这位置卖压这么重，今天散户是不会卖的，只有机构刻意为之",
+          "publishTime": "2026-05-28 11:03:24",
+          "viewCount": 5,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716197364,
+          "title": "让融劵的割肉环节",
+          "publishTime": "2026-05-28 11:02:20",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716196199,
+          "title": "怎么搞的买了只最弱的假电力票",
+          "publishTime": "2026-05-28 11:01:46",
+          "viewCount": 9,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 38
+      }
+    }
+  },
+  "sentiment:600578": {
+    "savedAt": 1780547633,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1720537570,
+          "title": "无量拉升，大家千万不要跟，大概率中午一开盘就砸下来，前方套牢盘，分歧太大，就算今",
+          "publishTime": "2026-06-04 12:32:24",
+          "viewCount": 1,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720537539,
+          "title": "不到20不卖",
+          "publishTime": "2026-06-04 12:32:17",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720536729,
+          "title": "哈空调：电站空冷系统龙头地位：火电/核电/特高压配套空冷系统国内市占第一（≈35",
+          "publishTime": "2026-06-04 12:29:58",
+          "viewCount": 16,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720535414,
+          "title": "大唐电力真正的龙头",
+          "publishTime": "2026-06-04 12:25:59",
+          "viewCount": 42,
+          "commentCount": 3,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720534161,
+          "title": "在不上车没机会上了一会紫阳真人冲板了",
+          "publishTime": "2026-06-04 12:22:07",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720533985,
+          "title": "在不上车没机会了",
+          "publishTime": "2026-06-04 12:21:35",
+          "viewCount": 25,
+          "commentCount": 3,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720533934,
+          "title": "150000*",
+          "publishTime": "2026-06-04 12:21:28",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720533905,
+          "title": "还是要跟华电能源，下午华电能源开盘就开拉上板了",
+          "publishTime": "2026-06-04 12:21:22",
+          "viewCount": 18,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -2.25,
+        "label": "中性",
+        "hotness": 147
+      }
+    }
+  },
+  "sentiment:000966": {
+    "savedAt": 1779937641,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1716197872,
+          "title": "快跑",
+          "publishTime": "2026-05-28 11:02:34",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716188692,
+          "title": "25那天直线板，主力估计已经板上出货了，真是垃圾啊",
+          "publishTime": "2026-05-28 10:58:28",
+          "viewCount": 4,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716181423,
+          "title": "不是哥们，539这么难？",
+          "publishTime": "2026-05-28 10:55:12",
+          "viewCount": 7,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716179412,
+          "title": "冲破缺口冲",
+          "publishTime": "2026-05-28 10:54:22",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716179407,
+          "title": "拿不住，根本拿不住",
+          "publishTime": "2026-05-28 10:54:21",
+          "viewCount": 8,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716166467,
+          "title": "越多散户，主力越不拉，散了吧",
+          "publishTime": "2026-05-28 10:48:28",
+          "viewCount": 7,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716161503,
+          "title": "这种走势又是九头鸟的股",
+          "publishTime": "2026-05-28 10:46:09",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716160528,
+          "title": "买了个垃圾电力",
+          "publishTime": "2026-05-28 10:45:41",
+          "viewCount": 6,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 45
+      }
+    }
+  },
+  "sentiment:000630": {
+    "savedAt": 1780461222,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1719669402,
+          "title": "铜陵有色严重低估了！持有控股子公司铜冠铜箔700多亿市值、铜周期来了，坚定不移持",
+          "publishTime": "2026-06-03 12:27:29",
+          "viewCount": 14,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719667564,
+          "title": "掐指一算，可以摸到9.1，之后就不知道了",
+          "publishTime": "2026-06-03 12:22:25",
+          "viewCount": 36,
+          "commentCount": 3,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719667093,
+          "title": "铜陵有色:全球囤铜，上行在即",
+          "publishTime": "2026-06-03 12:21:18",
+          "viewCount": 45,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719665949,
+          "title": "破7.3还有戏，破不了就走了",
+          "publishTime": "2026-06-03 12:18:04",
+          "viewCount": 28,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719664006,
+          "title": "十日净流入资金18亿，铜陵有色应该会涨上去吧，要不那么多资金流入有什么用啊？",
+          "publishTime": "2026-06-03 12:12:55",
+          "viewCount": 39,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719662080,
+          "title": "工业富联都突破前高，散户那么多，市值那么高，照样涨，涨不涨与散户美半毛钱关系，所",
+          "publishTime": "2026-06-03 12:08:06",
+          "viewCount": 43,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 72.0,
+          "sentimentLabel": "偏乐观"
+        },
+        {
+          "postId": 1719661998,
+          "title": "短线、获利的也要6月15以后在出这期间将大幅拉升、别问为什么！",
+          "publishTime": "2026-06-03 12:07:54",
+          "viewCount": 21,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719657821,
+          "title": "$铜陵有色(SZ000630)$",
+          "publishTime": "2026-06-03 11:57:58",
+          "viewCount": 203,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 13.5,
+        "label": "中性",
+        "hotness": 479
+      }
+    }
+  },
+  "sentiment:600157": {
+    "savedAt": 1780475910,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1719977748,
+          "title": "有煤有电就是不涨气不气人",
+          "publishTime": "2026-06-03 16:36:44",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719970673,
+          "title": "连涨半个月了永泰已经进入主升浪行情，别卖飞了随时10连板，翻个5-10倍不成问题",
+          "publishTime": "2026-06-03 16:17:09",
+          "viewCount": 33,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 36.0,
+          "sentimentLabel": "偏乐观"
+        },
+        {
+          "postId": 1719962268,
+          "title": "感觉是暴力洗盘，把不坚定散户洗干净就开始拉升了。我建仓一个多月，一股不卖。高温天",
+          "publishTime": "2026-06-03 15:54:24",
+          "viewCount": 75,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719960346,
+          "title": "股套了我10年。从10元多跌到一元多，今生它都到不了4块！",
+          "publishTime": "2026-06-03 15:49:14",
+          "viewCount": 48,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": -36.0,
+          "sentimentLabel": "偏风险"
+        },
+        {
+          "postId": 1719958746,
+          "title": "忘广稀个砸，错失电力股行情",
+          "publishTime": "2026-06-03 15:46:01",
+          "viewCount": 19,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719958263,
+          "title": "朱力不让我买卖,挂的1.8没买成,挂的1.88没卖成今夜再挂",
+          "publishTime": "2026-06-03 15:44:59",
+          "viewCount": 24,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719954377,
+          "title": "看看华电辽能，再看看你，没法比",
+          "publishTime": "2026-06-03 15:36:04",
+          "viewCount": 34,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719953773,
+          "title": "低价煤电拥抱算电协同，永泰能源的转型“主升浪”逻辑如果说2025年的永泰能源还在",
+          "publishTime": "2026-06-03 15:34:34",
+          "viewCount": 106,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 6.75,
+        "label": "中性",
+        "hotness": 362
+      }
+    }
+  },
+  "sentiment:600930": {
+    "savedAt": 1779955355,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1716467802,
+          "title": "华电新能在黑龙江成立新公司",
+          "publishTime": "2026-05-28 14:35:10",
+          "viewCount": 1629,
+          "commentCount": 8,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716549502,
+          "title": "去年中签的票今天又杀回来。看能不能混口饭吃。",
+          "publishTime": "2026-05-28 15:53:00",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716545507,
+          "title": "今年还亏23%",
+          "publishTime": "2026-05-28 15:43:11",
+          "viewCount": 14,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716544726,
+          "title": "今年只有我亏钱吧",
+          "publishTime": "2026-05-28 15:41:10",
+          "viewCount": 9,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716535746,
+          "title": "昨天割了",
+          "publishTime": "2026-05-28 15:26:54",
+          "viewCount": 14,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716534747,
+          "title": "大赚几万高抛给庄家了。哈哈哈",
+          "publishTime": "2026-05-28 15:25:39",
+          "viewCount": 15,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716532084,
+          "title": "明天多数直接涨停",
+          "publishTime": "2026-05-28 15:21:37",
+          "viewCount": 18,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716528464,
+          "title": "看错了，是今天股东大会，难怪拉，明天危险了",
+          "publishTime": "2026-05-28 15:15:36",
+          "viewCount": 53,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716524794,
+          "title": "只要不涨停,这股就不可能有行情",
+          "publishTime": "2026-05-28 15:10:43",
+          "viewCount": 25,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 9,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 1859
+      }
+    }
+  },
+  "sentiment:600010": {
+    "savedAt": 1780561151,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1720834884,
+          "title": "今天涨一分，明跌一个点。这就是这碑股的走势",
+          "publishTime": "2026-06-04 16:11:54",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720824621,
+          "title": "明天涨停恭喜发财#",
+          "publishTime": "2026-06-04 15:46:40",
+          "viewCount": 33,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720818302,
+          "title": "包钢股份今天不跌，估计要什了。最好涨到3.08元。解套了筹码卖给庄家。",
+          "publishTime": "2026-06-04 15:35:16",
+          "viewCount": 94,
+          "commentCount": 5,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720816350,
+          "title": "加仓10万手，越跌越买",
+          "publishTime": "2026-06-04 15:32:14",
+          "viewCount": 21,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720814701,
+          "title": "10倍牛股",
+          "publishTime": "2026-06-04 15:29:11",
+          "viewCount": 13,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720807679,
+          "title": "这个，老子尾盘全换成了中际旭创",
+          "publishTime": "2026-06-04 15:17:59",
+          "viewCount": 26,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720807038,
+          "title": "今天大涨一分钱",
+          "publishTime": "2026-06-04 15:16:54",
+          "viewCount": 14,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720805789,
+          "title": "这股今天还涨一分了，好强势不跟大盘了",
+          "publishTime": "2026-06-04 15:15:24",
+          "viewCount": 18,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 2.25,
+        "label": "中性",
+        "hotness": 269
+      }
+    }
+  },
+  "sentiment:000060": {
+    "savedAt": 1780461236,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1719669795,
+          "title": "最好的洗盘就是拉升",
+          "publishTime": "2026-06-03 12:28:44",
+          "viewCount": 10,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719668135,
+          "title": "卖飞了也别担心下午就跌停",
+          "publishTime": "2026-06-03 12:24:00",
+          "viewCount": 16,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719667055,
+          "title": "卖飞了",
+          "publishTime": "2026-06-03 12:21:10",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719666666,
+          "title": "8.1出了，这货的进度，我认为不亏，不要浪费时间，做T高手当我没说",
+          "publishTime": "2026-06-03 12:20:05",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719661293,
+          "title": "又在那唱多！每次一唱多就跌不知道吗？都是oyi吗？",
+          "publishTime": "2026-06-03 12:06:06",
+          "viewCount": 19,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719661200,
+          "title": "出完了就涨，厉害啊",
+          "publishTime": "2026-06-03 12:05:49",
+          "viewCount": 19,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719659751,
+          "title": "反复搓洗，老铁莫走哈！",
+          "publishTime": "2026-06-03 12:02:17",
+          "viewCount": 14,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719657983,
+          "title": "继续买。要大涨了。满仓干",
+          "publishTime": "2026-06-03 11:58:19",
+          "viewCount": 18,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 36.0,
+          "sentimentLabel": "偏乐观"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 2.25,
+        "label": "中性",
+        "hotness": 124
+      }
+    }
+  },
+  "sentiment:600497": {
+    "savedAt": 1780461242,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1719661401,
+          "title": "锌的期货创新高，驰宏锌锗的锗最关键的光通信的核心材料。还有铟，是现代科技必不缺少",
+          "publishTime": "2026-06-03 12:06:23",
+          "viewCount": 29,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719658785,
+          "title": "还得是云锗，吃香喝辣",
+          "publishTime": "2026-06-03 12:00:00",
+          "viewCount": 19,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719654014,
+          "title": "踏马快涨！",
+          "publishTime": "2026-06-03 11:50:07",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719652961,
+          "title": "6",
+          "publishTime": "2026-06-03 11:48:06",
+          "viewCount": 14,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719648998,
+          "title": "弄来弄去中金岭南都没涨过",
+          "publishTime": "2026-06-03 11:41:47",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719647285,
+          "title": "中铝乾星（成都）科技有限责任公司2026年新建大尺寸先进化合物半导体衬底及高纯材",
+          "publishTime": "2026-06-03 11:39:19",
+          "viewCount": 82,
+          "commentCount": 3,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719645379,
+          "title": "启动时间：先进制程半导体材料实验平台建设于2026年初正式启动。当前进度：截至2",
+          "publishTime": "2026-06-03 11:36:57",
+          "viewCount": 114,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719644422,
+          "title": "中铝乾星的化合物半导体及高纯金属材料中试平台，是由中铝科学院协同中铝乾星共同建设",
+          "publishTime": "2026-06-03 11:35:55",
+          "viewCount": 32,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 6.75,
+        "label": "中性",
+        "hotness": 340
+      }
+    }
+  },
+  "sentiment:002131": {
+    "savedAt": 1780296908,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1717730663,
+          "title": "利欧股份:关于发行H股并上市的进展公告",
+          "publishTime": "2026-05-31 16:09:09",
+          "viewCount": 3026,
+          "commentCount": 57,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718315043,
+          "title": "今天两次拉高，抛压尚可，承接不错，明天看涨",
+          "publishTime": "2026-06-01 14:54:45",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718309673,
+          "title": "收盆拉上6.20",
+          "publishTime": "2026-06-01 14:51:55",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718303604,
+          "title": "看好明天涨停",
+          "publishTime": "2026-06-01 14:48:01",
+          "viewCount": 8,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718297211,
+          "title": "请问一下各位，派息了吗。查流水没有进呢。谢谢回答。",
+          "publishTime": "2026-06-01 14:44:14",
+          "viewCount": 111,
+          "commentCount": 6,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718294900,
+          "title": "涨不到两个点跌就是4个点起步",
+          "publishTime": "2026-06-01 14:43:00",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718290345,
+          "title": "真是丢人啊，",
+          "publishTime": "2026-06-01 14:40:24",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718289615,
+          "title": "最差一个",
+          "publishTime": "2026-06-01 14:40:00",
+          "viewCount": 13,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718284084,
+          "title": "群里都是大明白",
+          "publishTime": "2026-06-01 14:36:33",
+          "viewCount": 6,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 9,
+        "averageSentimentScore": 4.0,
+        "label": "中性",
+        "hotness": 3496
+      }
+    }
+  },
+  "sentiment:600744": {
+    "savedAt": 1780021979,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1716991829,
+          "title": "。进来就山顶。以为你要拉涨停",
+          "publishTime": "2026-05-29 10:32:54",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716989365,
+          "title": "强者恒强，不仅电力板块在吸其他板块，热门个股也在吸板块内的其他个股资金",
+          "publishTime": "2026-05-29 10:31:57",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716988493,
+          "title": "这种压盘方式的基本上都是老庄压的，这个庄老喜欢吃独食",
+          "publishTime": "2026-05-29 10:31:36",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716986381,
+          "title": "不卖等一下绿了",
+          "publishTime": "2026-05-29 10:30:54",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716986207,
+          "title": "别管涨多少，能涨就是福，昨天还可惜再升21.98卖了后悔不已，今天再升直接跌停，",
+          "publishTime": "2026-05-29 10:30:50",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716984049,
+          "title": "11:00涨停，加仓",
+          "publishTime": "2026-05-29 10:30:03",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716983672,
+          "title": "蒙电一百多万封都不愿意过你华银这边来",
+          "publishTime": "2026-05-29 10:29:54",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1716982979,
+          "title": "没劲的很，这只股突破不了自己",
+          "publishTime": "2026-05-29 10:29:38",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 9.0,
+        "label": "中性",
+        "hotness": 14
+      }
+    }
+  },
+  "sentiment:601975": {
+    "savedAt": 1780288600,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1718127182,
+          "title": "今早抄底的拿住起码等7块再出。",
+          "publishTime": "2026-06-01 12:08:32",
+          "viewCount": 31,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718120466,
+          "title": "先卖吧，不要和周五一样做过山车，太难受了",
+          "publishTime": "2026-06-01 11:49:45",
+          "viewCount": 18,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718104965,
+          "title": "洗洗干净成仙喽。",
+          "publishTime": "2026-06-01 11:27:16",
+          "viewCount": 19,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718104042,
+          "title": "有本事你拉涨停板，让我后悔！！",
+          "publishTime": "2026-06-01 11:26:33",
+          "viewCount": 41,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718100656,
+          "title": "刚卖你就拉……",
+          "publishTime": "2026-06-01 11:24:00",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718097317,
+          "title": "嘿嘿，有点无语",
+          "publishTime": "2026-06-01 11:21:37",
+          "viewCount": 15,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718093273,
+          "title": "不拉个七八个点，大屁股怎么会红。",
+          "publishTime": "2026-06-01 11:19:08",
+          "viewCount": 18,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718091523,
+          "title": "美伊缓解，科技就牛，美伊不缓解，科技就大杀特杀。",
+          "publishTime": "2026-06-01 11:18:10",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 2.25,
+        "label": "中性",
+        "hotness": 181
+      }
+    }
+  },
+  "sentiment:600795": {
+    "savedAt": 1780388511,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1719097322,
+          "title": "气候催化叠加国内外供给双紧 今夏煤价中枢预计上移 电厂已感成本压力",
+          "publishTime": "2026-06-02 15:10:30",
+          "viewCount": 2750,
+          "commentCount": 19,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719116505,
+          "title": "去年十月份买的，一直套着！还差2个点解套",
+          "publishTime": "2026-06-02 15:44:37",
+          "viewCount": 23,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -36.0,
+          "sentimentLabel": "偏风险"
+        },
+        {
+          "postId": 1719098471,
+          "title": "不动就是动，慢就是快",
+          "publishTime": "2026-06-02 15:12:12",
+          "viewCount": 32,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719097908,
+          "title": "昨天上午5.3清仓了，下午想5.2接回，结果一直在5.22晃悠就没买，后悔到跺脚",
+          "publishTime": "2026-06-02 15:11:22",
+          "viewCount": 42,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719097133,
+          "title": "唉，这股把人能急死进这么多资金就是不涨，走了留下的发财",
+          "publishTime": "2026-06-02 15:10:13",
+          "viewCount": 28,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719096232,
+          "title": "稳步上升，明天突破5.40",
+          "publishTime": "2026-06-02 15:08:57",
+          "viewCount": 28,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719089474,
+          "title": "各位大神，看到多少？",
+          "publishTime": "2026-06-02 15:02:12",
+          "viewCount": 157,
+          "commentCount": 5,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719082181,
+          "title": "稳稳的每天涨1个点",
+          "publishTime": "2026-06-02 14:56:42",
+          "viewCount": 23,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 2.25,
+        "label": "中性",
+        "hotness": 3218
+      }
+    }
+  },
+  "sentiment:601985": {
+    "savedAt": 1780388538,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1719112746,
+          "title": "去年3月建仓到现在。广核吃了一波，这个只有放着了",
+          "publishTime": "2026-06-02 15:36:47",
+          "viewCount": 225,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719101460,
+          "title": "中国核电13200股9.29减了3000看9.44难突破，再涨再减，好几次了高点",
+          "publishTime": "2026-06-02 15:17:17",
+          "viewCount": 39,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 36.0,
+          "sentimentLabel": "偏乐观"
+        },
+        {
+          "postId": 1719101191,
+          "title": "发现一只极有特色的股票",
+          "publishTime": "2026-06-02 15:16:49",
+          "viewCount": 26,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719098033,
+          "title": "明天站上9.40元",
+          "publishTime": "2026-06-02 15:11:34",
+          "viewCount": 32,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719081970,
+          "title": "9.3是天花板吗？多少次了",
+          "publishTime": "2026-06-02 14:56:34",
+          "viewCount": 69,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719078520,
+          "title": "这换手率太低了，主力没出多少货，明天至少不会跌",
+          "publishTime": "2026-06-02 14:54:35",
+          "viewCount": 39,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719075683,
+          "title": "一分钱难倒英雄汉啊",
+          "publishTime": "2026-06-02 14:52:53",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719073690,
+          "title": "我卖完了，可以跌了，",
+          "publishTime": "2026-06-02 14:51:57",
+          "viewCount": 20,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 482
+      }
+    }
+  },
+  "sentiment:601988": {
+    "savedAt": 1780641641,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721573682,
+          "title": "再拉就爆了",
+          "publishTime": "2026-06-05 14:24:54",
+          "viewCount": 9,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721564995,
+          "title": "基金请别拉银行，其他崩的更快",
+          "publishTime": "2026-06-05 14:20:50",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721554477,
+          "title": "6.05压力位过不去，还得回调！",
+          "publishTime": "2026-06-05 14:14:55",
+          "viewCount": 8,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721523558,
+          "title": "今年又是银行牛市，最后看着吧",
+          "publishTime": "2026-06-05 13:58:19",
+          "viewCount": 50,
+          "commentCount": 4,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721502253,
+          "title": "中国银行风险分析解读",
+          "publishTime": "2026-06-05 13:45:24",
+          "viewCount": 110,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721460694,
+          "title": "$中国银行(SH601988)$",
+          "publishTime": "2026-06-05 13:23:06",
+          "viewCount": 42,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721460444,
+          "title": "$中国银行(SH601988)$",
+          "publishTime": "2026-06-05 13:22:58",
+          "viewCount": 14,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721421783,
+          "title": "五年大顶要来了",
+          "publishTime": "2026-06-05 13:01:28",
+          "viewCount": 80,
+          "commentCount": 4,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 360
+      }
+    }
+  },
+  "sentiment:601398": {
+    "savedAt": 1780641655,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721596134,
+          "title": "刚刚打开看了下；有个9万多手的大买盘..",
+          "publishTime": "2026-06-05 14:34:58",
+          "viewCount": 7,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721557000,
+          "title": "不得不说，建行才是第一行",
+          "publishTime": "2026-06-05 14:16:19",
+          "viewCount": 41,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721544678,
+          "title": "上次最低卖了，现在居然涨了",
+          "publishTime": "2026-06-05 14:09:25",
+          "viewCount": 59,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721531961,
+          "title": "上次7.36踢掉4万股，才接回来一万股，",
+          "publishTime": "2026-06-05 14:02:33",
+          "viewCount": 29,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721499197,
+          "title": "买收割机还得是四大机构行牌的",
+          "publishTime": "2026-06-05 13:43:31",
+          "viewCount": 20,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721448704,
+          "title": "$工商银行(SH601398)$",
+          "publishTime": "2026-06-05 13:17:08",
+          "viewCount": 16,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721447473,
+          "title": "下周上7.5然后再回调一下",
+          "publishTime": "2026-06-05 13:16:31",
+          "viewCount": 47,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721447384,
+          "title": "$工商银行(SH601398)$",
+          "publishTime": "2026-06-05 13:16:28",
+          "viewCount": 17,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 2.25,
+        "label": "中性",
+        "hotness": 266
+      }
+    }
+  },
+  "sentiment:000001": {
+    "savedAt": 1780041765,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1717438331,
+          "title": "周浮云：+20657；牵手大行，同行共勉！投资周记260529-2",
+          "publishTime": "2026-05-29 15:29:55",
+          "viewCount": 41,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717432019,
+          "title": "个贷负增长好不好",
+          "publishTime": "2026-05-29 15:20:28",
+          "viewCount": 35,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717428519,
+          "title": "2种情况：1。暴力突破13~15，2。曲折震荡到13~15！因为科技下跌，如果要",
+          "publishTime": "2026-05-29 15:15:50",
+          "viewCount": 17,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717421854,
+          "title": "啥时候分红？",
+          "publishTime": "2026-05-29 15:09:45",
+          "viewCount": 8,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717418394,
+          "title": "5.27（周三）大唐：+7.68%上证：−1.25%当日偏离：7.68−(−1.",
+          "publishTime": "2026-05-29 15:07:06",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717414022,
+          "title": "看K线图头肩底形成底部不知道还要多长时间打磨，拿着分红，分几年红成本自然下降，不",
+          "publishTime": "2026-05-29 15:03:56",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717411531,
+          "title": "尾盘什么情况？",
+          "publishTime": "2026-05-29 15:02:40",
+          "viewCount": 184,
+          "commentCount": 6,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 7,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 347
+      }
+    }
+  },
+  "sentiment:002617": {
+    "savedAt": 1780280946,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1717994533,
+          "title": "就算涨停，你的钱还是不够周五跌的多",
+          "publishTime": "2026-06-01 10:28:33",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717991380,
+          "title": "等一个信号",
+          "publishTime": "2026-06-01 10:26:59",
+          "viewCount": 18,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717987205,
+          "title": "不管你咋玩，这几天挂的都是跌停，玩法千千万，不相信你能玩出花",
+          "publishTime": "2026-06-01 10:25:02",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717985492,
+          "title": "你搞不过三安光电你不成了笑话了",
+          "publishTime": "2026-06-01 10:24:11",
+          "viewCount": 8,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717982893,
+          "title": "天天来回打晃，什么情况？",
+          "publishTime": "2026-06-01 10:22:55",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717981452,
+          "title": "明天还要一根大阴线踩破20天线",
+          "publishTime": "2026-06-01 10:22:12",
+          "viewCount": 6,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717981426,
+          "title": "主力没钱了，别幻想了，下午没有承接估计跳水了",
+          "publishTime": "2026-06-01 10:22:12",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1717976190,
+          "title": "感觉在诱多",
+          "publishTime": "2026-06-01 10:19:51",
+          "viewCount": 12,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -4.5,
+        "label": "中性",
+        "hotness": 66
+      }
+    }
+  },
+  "sentiment:600905": {
+    "savedAt": 1780283139,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1718059604,
+          "title": "下午如果涨停，明天还能涨停！",
+          "publishTime": "2026-06-01 11:01:02",
+          "viewCount": 4,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 36.0,
+          "sentimentLabel": "偏乐观"
+        },
+        {
+          "postId": 1718053340,
+          "title": "又来一套",
+          "publishTime": "2026-06-01 10:57:35",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718040495,
+          "title": "上周五跑的我今天又追进来了。",
+          "publishTime": "2026-06-01 10:51:22",
+          "viewCount": 32,
+          "commentCount": 5,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718035975,
+          "title": "套个两个月终于卖了",
+          "publishTime": "2026-06-01 10:49:00",
+          "viewCount": 7,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718024913,
+          "title": "和意为",
+          "publishTime": "2026-06-01 10:43:34",
+          "viewCount": 8,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718023815,
+          "title": "买在无人问津时",
+          "publishTime": "2026-06-01 10:43:04",
+          "viewCount": 16,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718023663,
+          "title": "你今天死在这个位置吗",
+          "publishTime": "2026-06-01 10:42:59",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718022712,
+          "title": "散了吧！今天没戏了，下午回落",
+          "publishTime": "2026-06-01 10:42:32",
+          "viewCount": 14,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 126
+      }
+    }
+  },
+  "sentiment:601288": {
+    "savedAt": 1780641659,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721603594,
+          "title": "抓紧跌，把大盘带下来",
+          "publishTime": "2026-06-05 14:38:15",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721603022,
+          "title": "今天那么好的机会，银行板块和这垃圾都没上五日线",
+          "publishTime": "2026-06-05 14:37:57",
+          "viewCount": 4,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721600646,
+          "title": "银行股不要当搅棍好吗？",
+          "publishTime": "2026-06-05 14:36:51",
+          "viewCount": 3,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721591495,
+          "title": "银行全在涨，没一个跌的，下个星期要开始起飞了",
+          "publishTime": "2026-06-05 14:32:56",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721584297,
+          "title": "大盘怎么降这么多？",
+          "publishTime": "2026-06-05 14:29:47",
+          "viewCount": 13,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721579936,
+          "title": "机构扭曲价值的最好例证，无论是盈利还是分红，净资产都低，机构硬是把黑的搞成白的，",
+          "publishTime": "2026-06-05 14:27:49",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721575926,
+          "title": "今天肯定不会绿，别问我为什么，cpo绿了，也就这样",
+          "publishTime": "2026-06-05 14:25:56",
+          "viewCount": 19,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721559191,
+          "title": "干啥啥不行，拉胯第一名，假装涨一点，狂砸无下限",
+          "publishTime": "2026-06-05 14:17:32",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 79
+      }
+    }
+  },
+  "sentiment:600256": {
+    "savedAt": 1780624324,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721149767,
+          "title": "煤炭板块局部走强 大有能源5连板",
+          "publishTime": "2026-06-05 09:51:51",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721112858,
+          "title": "突破6.8能让四月份以来任何时间点买入的人赚钱就是牛",
+          "publishTime": "2026-06-05 09:42:12",
+          "viewCount": 21,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 36.0,
+          "sentimentLabel": "偏乐观"
+        },
+        {
+          "postId": 1721104498,
+          "title": "今天不丢脸！加油",
+          "publishTime": "2026-06-05 09:40:11",
+          "viewCount": 13,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721078730,
+          "title": "现在觉醒还不晚，这是一张长期饭票。",
+          "publishTime": "2026-06-05 09:33:46",
+          "viewCount": 21,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721076535,
+          "title": "怎么还涨了",
+          "publishTime": "2026-06-05 09:33:13",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721037565,
+          "title": "天然气大涨，老登登场",
+          "publishTime": "2026-06-05 09:17:31",
+          "viewCount": 19,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721027426,
+          "title": "今天完犊子了",
+          "publishTime": "2026-06-05 09:01:49",
+          "viewCount": 32,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721024740,
+          "title": "6月份这几天大盘走势怪怪的！怪怪的！半导体和科技硬是把指数拉上去！大盘股都刹不住",
+          "publishTime": "2026-06-05 08:54:44",
+          "viewCount": 45,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 9.0,
+        "label": "中性",
+        "hotness": 179
+      }
+    }
+  },
+  "sentiment:601328": {
+    "savedAt": 1780303666,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1718375369,
+          "title": "农业银行“筑底阶段中后期”",
+          "publishTime": "2026-06-01 16:39:42",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718356222,
+          "title": "大家应该听说过了，五大国有行持有的科技板块龙头股，少的有三五支，多的居然有二十多",
+          "publishTime": "2026-06-01 15:48:59",
+          "viewCount": 266,
+          "commentCount": 3,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718337808,
+          "title": "能回七款吗，7款我就卖了",
+          "publishTime": "2026-06-01 15:13:45",
+          "viewCount": 22,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718336556,
+          "title": "今天不是没偷钱，是失误偷反了",
+          "publishTime": "2026-06-01 15:12:28",
+          "viewCount": 32,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718335950,
+          "title": "这才是你该有的样子，点赞点赞点赞",
+          "publishTime": "2026-06-01 15:11:51",
+          "viewCount": 15,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718330486,
+          "title": "你今天出息了，没偷钱牛",
+          "publishTime": "2026-06-01 15:06:19",
+          "viewCount": 17,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718327908,
+          "title": "今天银行券商都是红的，指数为啥还是绿的？都是些什么股在跌啊？",
+          "publishTime": "2026-06-01 15:03:51",
+          "viewCount": 50,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718325320,
+          "title": "尾盘集合竞价这个999什么意思？",
+          "publishTime": "2026-06-01 15:01:36",
+          "viewCount": 20,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -2.25,
+        "label": "中性",
+        "hotness": 459
+      }
+    }
+  },
+  "sentiment:002421": {
+    "savedAt": 1780365609,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1718668476,
+          "title": "上",
+          "publishTime": "2026-06-02 09:59:36",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718666778,
+          "title": "呵呵，我买进就回落",
+          "publishTime": "2026-06-02 09:59:08",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718662103,
+          "title": "植物人又是冲高回落，电力板块调整，那今天钱只能来这儿了啊",
+          "publishTime": "2026-06-02 09:57:45",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718661204,
+          "title": "厉害了，直奔了",
+          "publishTime": "2026-06-02 09:57:27",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718657079,
+          "title": "机构来了",
+          "publishTime": "2026-06-02 09:56:22",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718656156,
+          "title": "上",
+          "publishTime": "2026-06-02 09:56:08",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718654811,
+          "title": "最后一洗！",
+          "publishTime": "2026-06-02 09:55:46",
+          "viewCount": 4,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718652281,
+          "title": "要涨停了",
+          "publishTime": "2026-06-02 09:55:05",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 2.25,
+        "label": "中性",
+        "hotness": 15
+      }
+    }
+  },
+  "sentiment:600172": {
+    "savedAt": 1780365616,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1718664712,
+          "title": "黄河旋风6月2日快速反弹",
+          "publishTime": "2026-06-02 09:58:31",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718669505,
+          "title": "清了，吃五个点可以了，今天大盘太差可能最后回落",
+          "publishTime": "2026-06-02 09:59:53",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718666916,
+          "title": "培育钻石概念快速拉升 惠丰钻石涨超15%",
+          "publishTime": "2026-06-02 09:59:10",
+          "viewCount": 44,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 36.0,
+          "sentimentLabel": "偏乐观"
+        },
+        {
+          "postId": 1718666672,
+          "title": "怎么从8个点跌下来的啊",
+          "publishTime": "2026-06-02 09:59:06",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718665248,
+          "title": "大盘跌得好惨，钻石正是抱团的好时候",
+          "publishTime": "2026-06-02 09:58:40",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718665212,
+          "title": "追高了",
+          "publishTime": "2026-06-02 09:58:40",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718664140,
+          "title": "吃吧，让你今天吃够筹码！",
+          "publishTime": "2026-06-02 09:58:20",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718661035,
+          "title": "都是200亿，先干到200再说",
+          "publishTime": "2026-06-02 09:57:24",
+          "viewCount": 15,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718660241,
+          "title": "又上套",
+          "publishTime": "2026-06-02 09:57:12",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 9,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 66
+      }
+    }
+  },
+  "sentiment:600667": {
+    "savedAt": 1780367687,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1718758657,
+          "title": "上不去了，准备发套了！",
+          "publishTime": "2026-06-02 10:34:35",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718757569,
+          "title": "这种位置，连续这么多天震荡，炸板。这样的换手率说明有超强大资金吸筹，而且故意不上",
+          "publishTime": "2026-06-02 10:34:01",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718757525,
+          "title": "师傅们感觉在大A里面赚钱好难哦呵呵呵呵",
+          "publishTime": "2026-06-02 10:33:59",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718754700,
+          "title": "起",
+          "publishTime": "2026-06-02 10:32:32",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718754407,
+          "title": "我爱师傅们吻啊哈哈哈哈哈哈哈",
+          "publishTime": "2026-06-02 10:32:24",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718754214,
+          "title": "冲啊，看好42",
+          "publishTime": "2026-06-02 10:32:19",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718754141,
+          "title": "大资金在疯狂买进",
+          "publishTime": "2026-06-02 10:32:17",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718753904,
+          "title": "有趣的股",
+          "publishTime": "2026-06-02 10:32:11",
+          "viewCount": 6,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -2.25,
+        "label": "中性",
+        "hotness": 16
+      }
+    }
+  },
+  "sentiment:000725": {
+    "savedAt": 1780624302,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1720949923,
+          "title": "涨停板上的京东方：规模优势之外 新故事在等待时间验证",
+          "publishTime": "2026-06-04 22:25:10",
+          "viewCount": 37465,
+          "commentCount": 94,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721060037,
+          "title": "22股获融资净买入额超2亿元 京东方A居首",
+          "publishTime": "2026-06-05 09:29:00",
+          "viewCount": 703,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721148971,
+          "title": "还好换去了沃格",
+          "publishTime": "2026-06-05 09:51:38",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721147797,
+          "title": "巨量滞涨",
+          "publishTime": "2026-06-05 09:51:20",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721147239,
+          "title": "大盘行情不好，散户报团取暖，这个股热度还是很高的，看好今天6-10个点",
+          "publishTime": "2026-06-05 09:51:12",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721145221,
+          "title": "还不快跑",
+          "publishTime": "2026-06-05 09:50:40",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721143604,
+          "title": "这个量有点吓人呀！",
+          "publishTime": "2026-06-05 09:50:12",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721142694,
+          "title": "卖盘太多主力暂时观望现在是短期高点可以卖了",
+          "publishTime": "2026-06-05 09:49:56",
+          "viewCount": 5,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721141913,
+          "title": "红星发展和沃格光电要控异动，要拉一个新的情绪标的",
+          "publishTime": "2026-06-05 09:49:42",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721141545,
+          "title": "卖早了",
+          "publishTime": "2026-06-05 09:49:37",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 10,
+        "averageSentimentScore": 5.4,
+        "label": "中性",
+        "hotness": 38657
+      }
+    }
+  },
+  "sentiment:002585": {
+    "savedAt": 1780367720,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1718740020,
+          "title": "双星新材6月2日快速回调",
+          "publishTime": "2026-06-02 10:25:41",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718759560,
+          "title": "掉队了，可以删自选了",
+          "publishTime": "2026-06-02 10:35:02",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718759114,
+          "title": "20cm都有了，双星不启动吗",
+          "publishTime": "2026-06-02 10:34:48",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718758416,
+          "title": "此轮被淘汰的",
+          "publishTime": "2026-06-02 10:34:26",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718753663,
+          "title": "今天有望涨停吗？",
+          "publishTime": "2026-06-02 10:32:04",
+          "viewCount": 2,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718753130,
+          "title": "板块7个点了啊，杂毛就是杂毛",
+          "publishTime": "2026-06-02 10:31:50",
+          "viewCount": 4,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718751683,
+          "title": "真的有点想哭了，唉。",
+          "publishTime": "2026-06-02 10:31:07",
+          "viewCount": 9,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1718751121,
+          "title": "主力，我已通知朋友、亲戚们买入了，就等你今天帮忙拉涨停，让我们开心开心，加油！",
+          "publishTime": "2026-06-02 10:30:51",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 36.0,
+          "sentimentLabel": "偏乐观"
+        },
+        {
+          "postId": 1718748541,
+          "title": "看样子想冲11",
+          "publishTime": "2026-06-02 10:29:38",
+          "viewCount": 6,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 9,
+        "averageSentimentScore": 6.0,
+        "label": "中性",
+        "hotness": 50
+      }
+    }
+  },
+  "sentiment:600601": {
+    "savedAt": 1780634243,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721406159,
+          "title": "拉起来",
+          "publishTime": "2026-06-05 12:28:12",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721404793,
+          "title": "有大神知道12.6左右主力是在吃筹码还是出货吗",
+          "publishTime": "2026-06-05 12:23:41",
+          "viewCount": 11,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721404449,
+          "title": "买了就安静等待，耐不住寂寞就做做T,做做高抛低吸。等人家减持结束，等人家增发完成",
+          "publishTime": "2026-06-05 12:22:36",
+          "viewCount": 25,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721404353,
+          "title": "今天内外盘比相差太大了",
+          "publishTime": "2026-06-05 12:22:15",
+          "viewCount": 13,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721400735,
+          "title": "他们的嘲讽声好大",
+          "publishTime": "2026-06-05 12:10:48",
+          "viewCount": 19,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721400637,
+          "title": "站稳13才有行情",
+          "publishTime": "2026-06-05 12:10:31",
+          "viewCount": 17,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721395270,
+          "title": "好哥哥来点量吧，该走的都走了！",
+          "publishTime": "2026-06-05 11:55:49",
+          "viewCount": 19,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721394329,
+          "title": "你震你的，买求最低，那是不可能的，卖想分时高位，更是不可能的。盘中大幅震荡，对“",
+          "publishTime": "2026-06-05 11:53:40",
+          "viewCount": 205,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -2.25,
+        "label": "中性",
+        "hotness": 334
+      }
+    }
+  },
+  "sentiment:000983": {
+    "savedAt": 1780563466,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1715798388,
+          "title": "董秘你好，公司去年9月与科达自控、宇树科技等签署了矿山具身智能机器人联合研发协议",
+          "publishTime": "2026-06-04 16:46:33",
+          "viewCount": 34,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720840434,
+          "title": "来个叼大的，问问董秘现在多少散户啦",
+          "publishTime": "2026-06-04 16:27:27",
+          "viewCount": 15,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720840409,
+          "title": "能不能更硬",
+          "publishTime": "2026-06-04 16:27:22",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720840094,
+          "title": "主力都快被洗出去了，砸不下去。明天估计也砸不动",
+          "publishTime": "2026-06-04 16:26:22",
+          "viewCount": 18,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720833882,
+          "title": "山西全省整顿，焦煤还得涨！",
+          "publishTime": "2026-06-04 16:09:21",
+          "viewCount": 19,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720829421,
+          "title": "形态不错7.7-7.8是强压，看有没有机会放量过",
+          "publishTime": "2026-06-04 15:58:17",
+          "viewCount": 18,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720824953,
+          "title": "买的有点冲动了，7.88进的，我一买下就跌，有天理么？",
+          "publishTime": "2026-06-04 15:47:12",
+          "viewCount": 62,
+          "commentCount": 5,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720820961,
+          "title": "底部价位凯傻得在3.5附近，此需要磨几个月才能继续看套牢盘挤出去多少，业绩差，消",
+          "publishTime": "2026-06-04 15:40:46",
+          "viewCount": 22,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -2.25,
+        "label": "中性",
+        "hotness": 228
+      }
+    }
+  },
+  "sentiment:601600": {
+    "savedAt": 1780469103,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1719895927,
+          "title": "减仓科技，加仓铝业！理由:1.中东打仗，有些设备被炸，有些停产，即使霍尔木兹海峡",
+          "publishTime": "2026-06-03 14:44:26",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719879078,
+          "title": "差量的配合",
+          "publishTime": "2026-06-03 14:37:02",
+          "viewCount": 8,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719868484,
+          "title": "大盘又要g了",
+          "publishTime": "2026-06-03 14:33:34",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719850500,
+          "title": "这一波拉的是试盘还是出货？有没有大神留下脚印？",
+          "publishTime": "2026-06-03 14:26:41",
+          "viewCount": 2,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719850092,
+          "title": "拉升碰到大盘跳水，真可怜",
+          "publishTime": "2026-06-03 14:26:31",
+          "viewCount": 89,
+          "commentCount": 3,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719849698,
+          "title": "几句话的功夫，又砸下来了",
+          "publishTime": "2026-06-03 14:26:20",
+          "viewCount": 22,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719845325,
+          "title": "哈哈哈哈，就是个笑话",
+          "publishTime": "2026-06-03 14:24:32",
+          "viewCount": 26,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719843437,
+          "title": "出了什么新闻吗？两点十分那会跟着大盘直线跳水？",
+          "publishTime": "2026-06-03 14:23:46",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -2.25,
+        "label": "中性",
+        "hotness": 188
+      }
+    }
+  },
+  "sentiment:000100": {
+    "savedAt": 1780634221,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721408075,
+          "title": "五块以上有毒最多坚持两天就要下来的",
+          "publishTime": "2026-06-05 12:34:45",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721407852,
+          "title": "玻璃基板时代最受益股，路维光电+清溢光电！",
+          "publishTime": "2026-06-05 12:34:00",
+          "viewCount": 4,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721406797,
+          "title": "红三兵不错！赶紧加倍买入！",
+          "publishTime": "2026-06-05 12:30:15",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721406778,
+          "title": "跳水冠军",
+          "publishTime": "2026-06-05 12:30:10",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721405557,
+          "title": "字母几年才能遇一次的反弹，上不去又得回立马三块",
+          "publishTime": "2026-06-05 12:26:05",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721405371,
+          "title": "你就不能弄块玻璃？",
+          "publishTime": "2026-06-05 12:25:31",
+          "viewCount": 8,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721405368,
+          "title": "持续放量释放套牢盘。起飞前兆，就等玻璃基板的消息了",
+          "publishTime": "2026-06-05 12:25:31",
+          "viewCount": 21,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721405018,
+          "title": "昨天有个伙计从京东方跑到TCL，还好吗",
+          "publishTime": "2026-06-05 12:24:23",
+          "viewCount": 7,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 70
+      }
+    }
+  },
+  "sentiment:000582": {
+    "savedAt": 1780457429,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1719635924,
+          "title": "承接很强，要开启主升浪了，我100w又冲进去了",
+          "publishTime": "2026-06-03 11:28:30",
+          "viewCount": 2,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719635807,
+          "title": "很多人的筹码被洗出去了",
+          "publishTime": "2026-06-03 11:28:26",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719622582,
+          "title": "能不能站稳14？",
+          "publishTime": "2026-06-03 11:21:18",
+          "viewCount": 14,
+          "commentCount": 3,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719619727,
+          "title": "啥时候能板",
+          "publishTime": "2026-06-03 11:19:43",
+          "viewCount": 24,
+          "commentCount": 3,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719607281,
+          "title": "被老庄狙击了我去，刚准备出门打个野",
+          "publishTime": "2026-06-03 11:13:20",
+          "viewCount": 4,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719605791,
+          "title": "完了t飞了",
+          "publishTime": "2026-06-03 11:12:36",
+          "viewCount": 29,
+          "commentCount": 3,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719599856,
+          "title": "为国家站岗义不容辞",
+          "publishTime": "2026-06-03 11:09:31",
+          "viewCount": 11,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719599299,
+          "title": "快跑，去科技股那边，科技股都拉爆了，老登股被拉爆了",
+          "publishTime": "2026-06-03 11:09:16",
+          "viewCount": 17,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 2.25,
+        "label": "中性",
+        "hotness": 152
+      }
+    }
+  },
+  "sentiment:601918": {
+    "savedAt": 1780469097,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1719889733,
+          "title": "新集能源6月3日快速回调",
+          "publishTime": "2026-06-03 14:41:30",
+          "viewCount": 4,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719895432,
+          "title": "这两天真流弊，振幅都在10个点以上，机构这两天倒手成本又得下降一大波，只要有题材",
+          "publishTime": "2026-06-03 14:44:12",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719889720,
+          "title": "电力加煤炭，就这表现，换强势的",
+          "publishTime": "2026-06-03 14:41:30",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719877862,
+          "title": "最后的上车机会咯",
+          "publishTime": "2026-06-03 14:36:35",
+          "viewCount": 9,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719876208,
+          "title": "还有坚持的吗？信心胜黄金！",
+          "publishTime": "2026-06-03 14:36:00",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719861018,
+          "title": "有煤有电，因为那个事故原因很多煤矿。。。。。。。。。夏天用电高峰，供不应求。。。",
+          "publishTime": "2026-06-03 14:31:00",
+          "viewCount": 13,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719858479,
+          "title": "突然发现买了个杂毛，别的都涨停了，这个还在墨迹",
+          "publishTime": "2026-06-03 14:29:58",
+          "viewCount": 17,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719858017,
+          "title": "此处放几天大量，和历史恩怨做个了断，也算一件好事吧。",
+          "publishTime": "2026-06-03 14:29:47",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719843729,
+          "title": "卖飞了，赔了4千多",
+          "publishTime": "2026-06-03 14:23:54",
+          "viewCount": 13,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 9,
+        "averageSentimentScore": 2.0,
+        "label": "中性",
+        "hotness": 74
+      }
+    }
+  },
+  "sentiment:601857": {
+    "savedAt": 1780469110,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1719894766,
+          "title": "中石油今天不红还好，今天涨又涨不动，跌又跌不下去，那一定会下探到8块，甚至是6块",
+          "publishTime": "2026-06-03 14:43:55",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719852783,
+          "title": "我就知道这个bi货一动，就会出问题",
+          "publishTime": "2026-06-03 14:27:40",
+          "viewCount": 14,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719850590,
+          "title": "僵尸概念股！！！",
+          "publishTime": "2026-06-03 14:26:44",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719847939,
+          "title": "下个月暴涨稳稳赚钱",
+          "publishTime": "2026-06-03 14:25:35",
+          "viewCount": 12,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719845469,
+          "title": "石油下个月暴涨稳稳的赚",
+          "publishTime": "2026-06-03 14:24:35",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719833895,
+          "title": "石油一拉。科技大盘全跳水。",
+          "publishTime": "2026-06-03 14:19:23",
+          "viewCount": 36,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719831579,
+          "title": "这么大盘子也属猴性了，上串下跳！",
+          "publishTime": "2026-06-03 14:18:22",
+          "viewCount": 11,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1719829615,
+          "title": "深沪五千多只股，居然打不过一个中石油，笑话。",
+          "publishTime": "2026-06-03 14:17:25",
+          "viewCount": 15,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 2.25,
+        "label": "中性",
+        "hotness": 118
+      }
+    }
+  },
+  "sentiment:600028": {
+    "savedAt": 1780634194,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721406495,
+          "title": "大部队都来了吗",
+          "publishTime": "2026-06-05 12:29:17",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721400157,
+          "title": "他乡遇故知，没想到在这里见到你，幸会幸会！哈哈哈哈哈哈……呃",
+          "publishTime": "2026-06-05 12:08:58",
+          "viewCount": 192,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721399521,
+          "title": "买起吃股息也可以",
+          "publishTime": "2026-06-05 12:07:11",
+          "viewCount": 50,
+          "commentCount": 3,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721399289,
+          "title": "T飞？底仓不动，是肿么飞的呢？哦，原来是满仓满T，难怪噻！哈哈哈哈哈哈哈…………",
+          "publishTime": "2026-06-05 12:06:31",
+          "viewCount": 117,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721398699,
+          "title": "股奶奶预言过很多人会在4.9以上追回筹码的（做T已经有风险）。",
+          "publishTime": "2026-06-05 12:04:42",
+          "viewCount": 14,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721397109,
+          "title": "主力进了2个亿了",
+          "publishTime": "2026-06-05 12:00:19",
+          "viewCount": 16,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721396288,
+          "title": "5.3涨停！赶紧上车，",
+          "publishTime": "2026-06-05 11:58:08",
+          "viewCount": 20,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721394382,
+          "title": "终于到底了吗？。我感觉3.5元才是最终的底。",
+          "publishTime": "2026-06-05 11:53:48",
+          "viewCount": 16,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 4.5,
+        "label": "中性",
+        "hotness": 446
+      }
+    }
+  },
+  "sentiment:600726": {
+    "savedAt": 1780540551,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1720386257,
+          "title": "回落起来太吓人不敢T了",
+          "publishTime": "2026-06-04 10:34:30",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720383439,
+          "title": "今天还真不能怪华电能源豫能板上直接被三亿爆头了也把板块给打崩了",
+          "publishTime": "2026-06-04 10:33:24",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720379950,
+          "title": "那些后排杂毛不给力，一直拖后腿",
+          "publishTime": "2026-06-04 10:32:07",
+          "viewCount": 3,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720376045,
+          "title": "实在不行你去当先锋龙",
+          "publishTime": "2026-06-04 10:30:32",
+          "viewCount": 4,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720371617,
+          "title": "暗盘资金大幅流入，抓紧进！",
+          "publishTime": "2026-06-04 10:28:49",
+          "viewCount": 16,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720370071,
+          "title": "10，08买了你听天由命了。",
+          "publishTime": "2026-06-04 10:28:15",
+          "viewCount": 70,
+          "commentCount": 4,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720369518,
+          "title": "预测下午尾盘应该要涨停加仓干",
+          "publishTime": "2026-06-04 10:28:04",
+          "viewCount": 11,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720369515,
+          "title": "电力拿到八月稳稳的",
+          "publishTime": "2026-06-04 10:28:04",
+          "viewCount": 8,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 2.25,
+        "label": "中性",
+        "hotness": 144
+      }
+    }
+  },
+  "sentiment:002129": {
+    "savedAt": 1780634265,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721404416,
+          "title": "感觉今天整体股票都会大涨，不排除午后猛涨",
+          "publishTime": "2026-06-05 12:22:28",
+          "viewCount": 8,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 36.0,
+          "sentimentLabel": "偏乐观"
+        },
+        {
+          "postId": 1721401733,
+          "title": "我路过问一下你们今年能不能炒上19块到26块？",
+          "publishTime": "2026-06-05 12:13:41",
+          "viewCount": 21,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721401448,
+          "title": "卖了.落袋为安。",
+          "publishTime": "2026-06-05 12:12:48",
+          "viewCount": 100,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721395295,
+          "title": "垃圾板块中最强的一个，没有未来，解套走人。",
+          "publishTime": "2026-06-05 11:55:52",
+          "viewCount": 23,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721395234,
+          "title": "今天9.3入的，如何呢",
+          "publishTime": "2026-06-05 11:55:44",
+          "viewCount": 33,
+          "commentCount": 5,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721393483,
+          "title": "但愿估值修复与通威，隆基在一个价位级别上",
+          "publishTime": "2026-06-05 11:51:56",
+          "viewCount": 24,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721387042,
+          "title": "半导体硅片持续亏损，要把它割掉才好",
+          "publishTime": "2026-06-05 11:39:54",
+          "viewCount": 15,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721384688,
+          "title": "轮也该轮到了吧？",
+          "publishTime": "2026-06-05 11:36:23",
+          "viewCount": 17,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 276
+      }
+    }
+  },
+  "sentiment:600821": {
+    "savedAt": 1780547651,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1720535724,
+          "title": "拿不住都进场打螺丝！",
+          "publishTime": "2026-06-04 12:26:58",
+          "viewCount": 7,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720532450,
+          "title": "又被我说中了，今日也确实拉到五个点了，早上跌的时候，我8.24又加仓了，做个T，",
+          "publishTime": "2026-06-04 12:17:18",
+          "viewCount": 37,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720525664,
+          "title": "大家要赖得住寂寞啊！L2资金评级为最高5星",
+          "publishTime": "2026-06-04 11:59:50",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720524642,
+          "title": "昨天卖飞了",
+          "publishTime": "2026-06-04 11:57:23",
+          "viewCount": 17,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720523380,
+          "title": "不敢乱动了，没有思绪，上午t了700来块钱",
+          "publishTime": "2026-06-04 11:54:46",
+          "viewCount": 75,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720522152,
+          "title": "扔了粤A，来追你，我叼",
+          "publishTime": "2026-06-04 11:52:23",
+          "viewCount": 9,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720520583,
+          "title": "这股业绩这么差，到底炒的什么。",
+          "publishTime": "2026-06-04 11:49:14",
+          "viewCount": 26,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720520022,
+          "title": "这两天啥情况，连续万手单",
+          "publishTime": "2026-06-04 11:48:11",
+          "viewCount": 111,
+          "commentCount": 4,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -2.25,
+        "label": "中性",
+        "hotness": 329
+      }
+    }
+  },
+  "sentiment:600707": {
+    "savedAt": 1780543948,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1720490028,
+          "title": "连着三天都是反T。无语了",
+          "publishTime": "2026-06-04 11:22:33",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720489093,
+          "title": "中午了，休息一下，下来了吧，别打了",
+          "publishTime": "2026-06-04 11:22:07",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720484832,
+          "title": "这股有城投在偷偷减持，还想拉起来？",
+          "publishTime": "2026-06-04 11:20:01",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720484821,
+          "title": "没戏，资金都跑去沃格拉地天板了",
+          "publishTime": "2026-06-04 11:20:00",
+          "viewCount": 9,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720483643,
+          "title": "给沃格让位了",
+          "publishTime": "2026-06-04 11:19:24",
+          "viewCount": 8,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720483177,
+          "title": "给沃格让位了",
+          "publishTime": "2026-06-04 11:19:10",
+          "viewCount": 6,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720482429,
+          "title": "做了个反t真难受",
+          "publishTime": "2026-06-04 11:18:49",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720479587,
+          "title": "看看人家凯盛，你跟杂毛一样",
+          "publishTime": "2026-06-04 11:17:24",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -2.25,
+        "label": "中性",
+        "hotness": 38
+      }
+    }
+  },
+  "sentiment:002506": {
+    "savedAt": 1780563444,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1720847768,
+          "title": "差我2个涨停",
+          "publishTime": "2026-06-04 16:46:49",
+          "viewCount": 7,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720846712,
+          "title": "BC电池概念涨1.65%，主力资金净流入23股",
+          "publishTime": "2026-06-04 16:43:50",
+          "viewCount": 319,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720843119,
+          "title": "拿了股市这么多钱，还有在技术领域有所突破！",
+          "publishTime": "2026-06-04 16:34:43",
+          "viewCount": 257,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720843014,
+          "title": "涨停都不能回本",
+          "publishTime": "2026-06-04 16:34:29",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720842395,
+          "title": "割了就涨，真服了……",
+          "publishTime": "2026-06-04 16:32:37",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720837582,
+          "title": "不用涨停，一毛钱我就很开心了",
+          "publishTime": "2026-06-04 16:19:35",
+          "viewCount": 23,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720835330,
+          "title": "今天进，明天会不会用来砸盘？",
+          "publishTime": "2026-06-04 16:13:07",
+          "viewCount": 73,
+          "commentCount": 3,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720823906,
+          "title": "明天一触即发，拿稳坐好",
+          "publishTime": "2026-06-04 15:45:40",
+          "viewCount": 69,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 13.5,
+        "label": "中性",
+        "hotness": 812
+      }
+    }
+  },
+  "sentiment:600909": {
+    "savedAt": 1780561117,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1720836794,
+          "title": "证券老登自救指南：只要一起把华安买到10，整个板块就起来了",
+          "publishTime": "2026-06-04 16:17:13",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720835405,
+          "title": "估值近1600亿元，长鑫科技豪华股东团都有谁？",
+          "publishTime": "2026-06-04 16:13:21",
+          "viewCount": 782,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720830737,
+          "title": "明天半导体大跌，证券启动，它又要跌了",
+          "publishTime": "2026-06-04 16:01:47",
+          "viewCount": 21,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": -36.0,
+          "sentimentLabel": "偏风险"
+        },
+        {
+          "postId": 1720815350,
+          "title": "看看外边全是普跌，能扛住不下去，感谢主力吧",
+          "publishTime": "2026-06-04 15:30:30",
+          "viewCount": 22,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720813935,
+          "title": "尾盘拉明天又要砸盘了洗吧洗吧西八西八",
+          "publishTime": "2026-06-04 15:27:52",
+          "viewCount": 40,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720808161,
+          "title": "带头大哥，牛",
+          "publishTime": "2026-06-04 15:18:47",
+          "viewCount": 16,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720806547,
+          "title": "明天早上能高开高走就一马平川，向12进军了。",
+          "publishTime": "2026-06-04 15:16:14",
+          "viewCount": 33,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1720802024,
+          "title": "明天高开",
+          "publishTime": "2026-06-04 15:11:41",
+          "viewCount": 27,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -6.75,
+        "label": "中性",
+        "hotness": 959
+      }
+    }
+  },
+  "sentiment:002171": {
+    "savedAt": 1780630242,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721284578,
+          "title": "楚江新材增资至约16.2亿",
+          "publishTime": "2026-06-05 10:40:40",
+          "viewCount": 1600,
+          "commentCount": 5,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721379499,
+          "title": "前面压力太大，看今天能不能冲过去",
+          "publishTime": "2026-06-05 11:30:34",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721377770,
+          "title": "怎么会买这种烂票",
+          "publishTime": "2026-06-05 11:29:17",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721376208,
+          "title": "到顶了，这么多净流入资金需要出货了。",
+          "publishTime": "2026-06-05 11:28:20",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721375234,
+          "title": "2.4万手哥来骗的？",
+          "publishTime": "2026-06-05 11:27:46",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721372848,
+          "title": "泰和新材，值得切换，跟上的",
+          "publishTime": "2026-06-05 11:26:21",
+          "viewCount": 6,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721370615,
+          "title": "13都站不稳，下午又危险了",
+          "publishTime": "2026-06-05 11:25:06",
+          "viewCount": 7,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721361957,
+          "title": "去观望博力威",
+          "publishTime": "2026-06-05 11:20:24",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721357217,
+          "title": "你丫的啥意思",
+          "publishTime": "2026-06-05 11:17:49",
+          "viewCount": 9,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 9,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 1664
+      }
+    }
+  },
+  "sentiment:601919": {
+    "savedAt": 1780641664,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721598119,
+          "title": "我是船长，今天浪太大了，",
+          "publishTime": "2026-06-05 14:35:46",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721593351,
+          "title": "谁分红比例高，就买谁",
+          "publishTime": "2026-06-05 14:33:46",
+          "viewCount": 7,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721578688,
+          "title": "明天涨，后天涨，大后天开始跌一周",
+          "publishTime": "2026-06-05 14:27:15",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721566609,
+          "title": "主力大哥们，收盘稳在15就行，要求不高吧",
+          "publishTime": "2026-06-05 14:21:38",
+          "viewCount": 9,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721556028,
+          "title": "下班600可以去喝点了，现在的要求很低",
+          "publishTime": "2026-06-05 14:15:46",
+          "viewCount": 208,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721547656,
+          "title": "还以为今天卖飞了，做了个小t",
+          "publishTime": "2026-06-05 14:11:12",
+          "viewCount": 225,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721543763,
+          "title": "好像每次起势的时候，都遇到大盘的不好。",
+          "publishTime": "2026-06-05 14:08:52",
+          "viewCount": 195,
+          "commentCount": 6,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721542796,
+          "title": "近日，中远海控旗下海联智通（BoxPlus）依托自主科研能力，完成IBOXCre",
+          "publishTime": "2026-06-05 14:08:19",
+          "viewCount": 30,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 2.25,
+        "label": "中性",
+        "hotness": 712
+      }
+    }
+  },
+  "sentiment:600186": {
+    "savedAt": 1780627001,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721273958,
+          "title": "买菜钱够了",
+          "publishTime": "2026-06-05 10:35:57",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721273376,
+          "title": "山顶站风，10.11，人麻了",
+          "publishTime": "2026-06-05 10:35:40",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721273269,
+          "title": "好了，我来接盘了",
+          "publishTime": "2026-06-05 10:35:38",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721269831,
+          "title": "原来是货没出完，拉高引人接盘啊",
+          "publishTime": "2026-06-05 10:34:07",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721269670,
+          "title": "还是倒在了黎明前，唉！还是缺乏理智，不合适玩股票啊，得离开股市了",
+          "publishTime": "2026-06-05 10:34:02",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721269022,
+          "title": "我造了，刚醒怎么回事？我还没卖啊",
+          "publishTime": "2026-06-05 10:33:46",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721268546,
+          "title": "你也是大消费啊，怎么不跟上",
+          "publishTime": "2026-06-05 10:33:35",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721267856,
+          "title": "高点买的是不是套牢了",
+          "publishTime": "2026-06-05 10:33:19",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -2.25,
+        "label": "中性",
+        "hotness": 15
+      }
+    }
+  },
+  "sentiment:600226": {
+    "savedAt": 1780627024,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721267058,
+          "title": "亨通股份送给有缘人",
+          "publishTime": "2026-06-05 10:33:00",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721248120,
+          "title": "盘中明显显示：大佬仍在大笔大笔买入！！！",
+          "publishTime": "2026-06-05 10:25:21",
+          "viewCount": 47,
+          "commentCount": 3,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721242785,
+          "title": "稳稳的出货",
+          "publishTime": "2026-06-05 10:23:20",
+          "viewCount": 19,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721235938,
+          "title": "主力应该下班了，我想说只有二板才能定龙头",
+          "publishTime": "2026-06-05 10:20:37",
+          "viewCount": 2,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721233597,
+          "title": "拉高出货，大家别接",
+          "publishTime": "2026-06-05 10:19:43",
+          "viewCount": 18,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721228625,
+          "title": "今早有种撕裂感，还是开仓了。",
+          "publishTime": "2026-06-05 10:17:51",
+          "viewCount": 251,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721214055,
+          "title": "越大越安全，mlcc和光",
+          "publishTime": "2026-06-05 10:12:37",
+          "viewCount": 85,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721202835,
+          "title": "感觉今天是最后一天买入机会下周开始应该就买不进来了",
+          "publishTime": "2026-06-05 10:08:44",
+          "viewCount": 25,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 4.5,
+        "label": "中性",
+        "hotness": 500
+      }
+    }
+  },
+  "sentiment:002624": {
+    "savedAt": 1780634287,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721406090,
+          "title": "起飞",
+          "publishTime": "2026-06-05 12:28:00",
+          "viewCount": 14,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721405443,
+          "title": "我入股市，最大的套就是完美发的，套了22%，再涨也涨不到高点",
+          "publishTime": "2026-06-05 12:25:44",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721403324,
+          "title": "20日线强压，过不去的话，下周我再回来买",
+          "publishTime": "2026-06-05 12:18:47",
+          "viewCount": 13,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721403200,
+          "title": "今天涨停我氪10个648",
+          "publishTime": "2026-06-05 12:18:22",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721402762,
+          "title": "别让大家失望喵",
+          "publishTime": "2026-06-05 12:16:56",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721402090,
+          "title": "12号SpaceX上市，希望国内游戏板块别受影响",
+          "publishTime": "2026-06-05 12:14:53",
+          "viewCount": 10,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721400179,
+          "title": "不跳水的完美还真不习惯，趋势要逆转了吗？？",
+          "publishTime": "2026-06-05 12:09:01",
+          "viewCount": 12,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721397907,
+          "title": "减仓二千股",
+          "publishTime": "2026-06-05 12:02:31",
+          "viewCount": 13,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 87
+      }
+    }
+  },
+  "sentiment:601666": {
+    "savedAt": 1780641670,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721571081,
+          "title": "短线涨幅有点大撤了",
+          "publishTime": "2026-06-05 14:23:45",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721570860,
+          "title": "短线涨幅有点大撤了",
+          "publishTime": "2026-06-05 14:23:39",
+          "viewCount": 6,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721554875,
+          "title": "尾盘涨停",
+          "publishTime": "2026-06-05 14:15:06",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721552016,
+          "title": "6月5日",
+          "publishTime": "2026-06-05 14:13:37",
+          "viewCount": 725,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721541082,
+          "title": "你好lj啊",
+          "publishTime": "2026-06-05 14:07:17",
+          "viewCount": 8,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721493346,
+          "title": "双龙出海",
+          "publishTime": "2026-06-05 13:39:59",
+          "viewCount": 18,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721488014,
+          "title": "期货拉直线",
+          "publishTime": "2026-06-05 13:36:58",
+          "viewCount": 212,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721474949,
+          "title": "煤价乘风：平煤股份惊魂持仓录",
+          "publishTime": "2026-06-05 13:30:19",
+          "viewCount": 321,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 6.75,
+        "label": "中性",
+        "hotness": 1302
+      }
+    }
+  },
+  "sentiment:601939": {
+    "savedAt": 1780642232,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1721628295,
+          "title": "假的永远是假的，郁金香永远是郁金香",
+          "publishTime": "2026-06-05 14:50:25",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721626425,
+          "title": "玩意",
+          "publishTime": "2026-06-05 14:49:25",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721625829,
+          "title": "6666666",
+          "publishTime": "2026-06-05 14:49:06",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721624223,
+          "title": "尾盘又跳水？",
+          "publishTime": "2026-06-05 14:48:14",
+          "viewCount": 2,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721613204,
+          "title": "大牛鼻",
+          "publishTime": "2026-06-05 14:43:00",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721609206,
+          "title": "牛逼",
+          "publishTime": "2026-06-05 14:41:06",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721604322,
+          "title": "你才是宇宙第一行，垃圾工商在你面前就是新兵蛋子",
+          "publishTime": "2026-06-05 14:38:37",
+          "viewCount": 9,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1721588339,
+          "title": "中国牛逼银行",
+          "publishTime": "2026-06-05 14:31:36",
+          "viewCount": 5,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": -2.25,
+        "label": "中性",
+        "hotness": 29
+      }
+    }
+  }
+}
