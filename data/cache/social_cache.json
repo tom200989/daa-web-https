@@ -6631,5 +6631,99 @@
         "hotness": 75
       }
     }
+  },
+  "sentiment:002602": {
+    "savedAt": 1781148925,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1724734153,
+          "title": "估计是王吉不停的卖，要不早上15了",
+          "publishTime": "2026-06-11 11:30:02",
+          "viewCount": 8,
+          "commentCount": 2,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1724732769,
+          "title": "套牢盘太多，或许两年都涨停不了",
+          "publishTime": "2026-06-11 11:29:11",
+          "viewCount": 7,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1724731793,
+          "title": "叛逆小---世纪华通",
+          "publishTime": "2026-06-11 11:28:34",
+          "viewCount": 4,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1724729111,
+          "title": "我去，T飞了",
+          "publishTime": "2026-06-11 11:26:57",
+          "viewCount": 6,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1724725462,
+          "title": "这么一跌反而活了",
+          "publishTime": "2026-06-11 11:24:52",
+          "viewCount": 8,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": -18.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1724724606,
+          "title": "没有你，游戏板块得解散",
+          "publishTime": "2026-06-11 11:24:23",
+          "viewCount": 6,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1724718314,
+          "title": "没有你，这个板块得散",
+          "publishTime": "2026-06-11 11:21:01",
+          "viewCount": 14,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1724717654,
+          "title": "完全控盘了，14.70至14.80之间振荡，纳入指数也就那样，15不会突破",
+          "publishTime": "2026-06-11 11:20:39",
+          "viewCount": 3,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 18.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 0.0,
+        "label": "中性",
+        "hotness": 76
+      }
+    }
   }
 }
