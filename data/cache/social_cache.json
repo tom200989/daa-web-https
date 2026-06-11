@@ -6537,5 +6537,99 @@
         "hotness": 434
       }
     }
+  },
+  "sentiment:601678": {
+    "savedAt": 1781148399,
+    "payload": {
+      "source": "EASTMONEY_GUBA_ARTICLELIST",
+      "rows": [
+        {
+          "postId": 1724726074,
+          "title": "高换手，放量滞长，不好说，在里面的估计今天可以等一等，看看有没有人来追高，今天能",
+          "publishTime": "2026-06-11 11:25:12",
+          "viewCount": 1,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1724723331,
+          "title": "金牛化工涨停了整个化工板块十几只涨停",
+          "publishTime": "2026-06-11 11:23:43",
+          "viewCount": 4,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 36.0,
+          "sentimentLabel": "偏乐观"
+        },
+        {
+          "postId": 1724718056,
+          "title": "74万吨甲基叔丁基醚才是重点！",
+          "publishTime": "2026-06-11 11:20:52",
+          "viewCount": 13,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1724714077,
+          "title": "大盘啥熊样，已经很不错了",
+          "publishTime": "2026-06-11 11:18:40",
+          "viewCount": 12,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1724711429,
+          "title": "阿滨的高中生活并不理想",
+          "publishTime": "2026-06-11 11:17:20",
+          "viewCount": 4,
+          "commentCount": 1,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1724710109,
+          "title": "半导体材料就一个板啊，瞧不起谁呢",
+          "publishTime": "2026-06-11 11:16:34",
+          "viewCount": 9,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1724703791,
+          "title": "早上不封板的都是骗人的。快跑吧，下午翻绿2%。",
+          "publishTime": "2026-06-11 11:13:26",
+          "viewCount": 7,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        },
+        {
+          "postId": 1724700239,
+          "title": "庄家可真可爱，一直倒车接人",
+          "publishTime": "2026-06-11 11:11:38",
+          "viewCount": 15,
+          "commentCount": 0,
+          "source": "东方财富股吧",
+          "sentimentScore": 0.0,
+          "sentimentLabel": "中性"
+        }
+      ],
+      "latest": {
+        "postCount": 8,
+        "averageSentimentScore": 4.5,
+        "label": "中性",
+        "hotness": 75
+      }
+    }
   }
 }
